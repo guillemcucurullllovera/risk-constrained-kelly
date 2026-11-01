@@ -3,7 +3,8 @@
 Provenance: clean-room reimplementation of Busseti, Ryu & Boyd, *Risk-Constrained
 Kelly Gambling* (2016), and the Rockafellar-Uryasev CVaR duality it builds on.
 Equations only; the convex program is expressed in cvxpy (Apache-2.0) and solved
-by ECOS/SCS (MIT/BSD). No black-box copy.
+by Clarabel/SCS (Apache-2.0/MIT). No solver source is vendored. ECOS is GPLv3
+and is not a dependency of this standalone release.
 
 ------------------------------------------------------------------------------
 THE PROGRAM

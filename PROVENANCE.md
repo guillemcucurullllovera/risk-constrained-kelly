@@ -7,3 +7,9 @@ This is a path-scoped snapshot export, not a claim to preserve original Git hist
 The owner previously confirmed first-party redistribution/licensing authority and directed this continuation batch. Apache-2.0 applies only to first-party material. No third-party package, restricted dataset, credential, production configuration, commercial report or hardware-result archive is included. Installed dependency licenses remain their own.
 
 Relocation/import changes isolate the algorithms from private estate interfaces. Additional numerical regression tests and synthetic experiments are new release work. Any material estimator correction is documented in THEORY.md and its tests.
+
+Installed-metadata verification identified ECOS as GPLv3, contrary to an old
+source comment. It is unnecessary and has been removed from the dependency
+graph; the release uses Clarabel (Apache-2.0) and SCS (MIT). No solver code was
+vendored or relicensed. Private historical result constants were removed from
+the original replay metadata; synthetic tests attest no historical performance.
