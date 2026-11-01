@@ -1,0 +1,14 @@
+{
+  "heimdall/research/sizing/evt.py": "678dbdad5ee322e68bedb94d2d911a79e40ee00d48e1a8baf2e388ee66205de6",
+  "heimdall/research/sizing/rck.py": "54893c909943ca08e030695fd4c00cf2e8c6fdccb6d71e528fcb580062009383",
+  "heimdall/research/sizing/__init__.py": "0ab7e1c076aee72bd5fdccdb26d3ace18d902c85cf7b77f7df577e0898ce7b12",
+  "heimdall/research/sizing/pipeline.py": "e0bc05b130d960931152c046112a6c4b242d10992cb6c0d4a297308bdd67bac1",
+  "heimdall/research/sizing/sizing_ceiling.py": "ed793495827b20d8bc878f7e8b9737bca324baa60c13b4b23458c7c611f8ccab",
+  "heimdall/research/sizing/errors.py": "1542d1d9a42a8f787486f0fb3576c5fdef04de77b040313f8539cf512cc157fb",
+  "heimdall/research/calibration/kelly_optimization.py": "b672dcc3eb12c48d56599c44b0fc0593642b495dd9d9adfd87a0622a77117513",
+  "heimdall/research/calibration/__init__.py": "10e29dd57d48e78c16308cf732135db1d6531b8b38b24f307ed405aa7c086624",
+  "heimdall/research/calibration/kelly_calibration.py": "64c6ca086845851a63068f778246e68b0c8b87c8374d7029500031ff17f90139",
+  "heimdall/tests/research/test_sizing_ceiling.py": "085bedf464ea92e5560dd19266f46fcdf9acc61860045cefd32da3b38f209fa6",
+  "heimdall/tests/research/test_sizing_rck.py": "2a8daf658f13b58845350924284c78dd3c172b0b163323059fbf49f1b298fb1a",
+  "heimdall/tests/research/test_kelly_optimization.py": "d41c4149664cc6b46e6d105c79968d4cef81b7c61a628e6fc7b2da4541f8c77f"
+}

@@ -1,0 +1,3 @@
+include *.md *.json LICENSE NOTICE uv.lock
+recursive-include tests *.py
+recursive-include experiments *.py

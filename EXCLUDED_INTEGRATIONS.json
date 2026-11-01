@@ -1,0 +1,52 @@
+[
+  {
+    "file": "test_kelly_optimization.py",
+    "test_or_helper": "test_settled_only_filter",
+    "reason": "Private application firewall/report driver not shipped; not claimed validated"
+  },
+  {
+    "file": "test_kelly_optimization.py",
+    "test_or_helper": "test_min_nlv_ceils",
+    "reason": "Private application firewall/report driver not shipped; not claimed validated"
+  },
+  {
+    "file": "test_kelly_optimization.py",
+    "test_or_helper": "test_sensitivity_grid_has_stress_15_and_shrink_l",
+    "reason": "Private application firewall/report driver not shipped; not claimed validated"
+  },
+  {
+    "file": "test_kelly_optimization.py",
+    "test_or_helper": "test_sensitivity_rescan_off_grid_dkill_degrades",
+    "reason": "Private application firewall/report driver not shipped; not claimed validated"
+  },
+  {
+    "file": "test_kelly_optimization.py",
+    "test_or_helper": "test_pending_governance_report_carries_conditional_fraction",
+    "reason": "Private application firewall/report driver not shipped; not claimed validated"
+  },
+  {
+    "file": "test_kelly_optimization.py",
+    "test_or_helper": "test_validation_failed_report_emits_null_fraction",
+    "reason": "Private application firewall/report driver not shipped; not claimed validated"
+  },
+  {
+    "file": "test_kelly_optimization.py",
+    "test_or_helper": "_driver",
+    "reason": "Private application firewall/report driver not shipped; not claimed validated"
+  },
+  {
+    "file": "test_kelly_optimization.py",
+    "test_or_helper": "test_report_body_byte_identical_across_hashseed",
+    "reason": "Private application firewall/report driver not shipped; not claimed validated"
+  },
+  {
+    "file": "test_sizing_ceiling.py",
+    "test_or_helper": "test_core_does_not_import_research_sizing",
+    "reason": "Original private-core integration failed with ModuleNotFoundError in first standalone run. Replaced with a distinct solver-lazy-import test; original private-core firewall is not claimed validated."
+  },
+  {
+    "file": "test_sizing_rck.py",
+    "test_or_helper": "test_core_does_not_import_research_sizing",
+    "reason": "Original private-core integration failed with ModuleNotFoundError in first standalone run. Replaced with a distinct solver-lazy-import test; original private-core firewall is not claimed validated."
+  }
+]
